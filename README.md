@@ -6,6 +6,6 @@
 - 🤔 I believe in 'tabs > spaces'
 - 📫 Email: [kulacoglukoral@gmail.com](kulacoglukoral@gmail.com)
 
-![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=dracula)
+![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=cobalt)]
