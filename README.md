@@ -3,5 +3,5 @@
 - 💻 I love coding! I really enjoy learning about new algorithms.
 - 🐍 I am an experienced python programmer and know 3 programming languadges fairly well.
 - 🧠 I’m currently learning about artificial neural networks.
-- 🤔 I believe in 'tabs > spaces'
+- 🤔 My favorite color theme is Monokai.
 - 📫 Email: [kulacoglukoral@gmail.com](kulacoglukoral@gmail.com)
