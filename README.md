@@ -8,4 +8,4 @@
 
 ![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=monokai)
 
-![KoralK5's github stats](https://github-readme-repo_card.vercel.app/api?username=KoralK5&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5)](https://github.com/KoralK5/github-readme-stats)
