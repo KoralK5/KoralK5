@@ -6,6 +6,6 @@
 - 🤔 My favorite color theme is Solarized Dark.
 - 📫 Email: [kulacoglukoral@gmail.com](kulacoglukoral@gmail.com)
 
-![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=solarized-dark)
+![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=gruvbox)
