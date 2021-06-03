@@ -2,9 +2,9 @@
 
 - 💻 I love coding! I enjoy learning about new algorithms.
 - 👨‍💻 I know more than 7 programming languadges well.
+- 🐍 Python is my favorite language after english.
 - 📜 Vim and VS Code are my favorite text editors.
-- 🤔 Gruvbox is my favorite color theme.
-- 🐍 Python is my favorite language.
+- 🎨 Gruvbox is my favorite color theme.
 - 🧠 I am an AI enthusiast.
 - 🎵 I like darksynth.
 - 📫 [Email](kulacoglukoral@gmail.com)
