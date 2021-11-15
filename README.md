@@ -5,7 +5,7 @@
 - 📜 Vim and VS Code are my favorite text editors.
 - 🎨 Gruvbox is my favorite color theme.
 - 🐍 Python is my favorite language.
-- 🧠 I am an AI enthusiast.
+- 🧠 I like artificial intelligence.
 - 🎵 I like darksynth.
 - 📫 [Email](kulacoglukoral@gmail.com)
 
