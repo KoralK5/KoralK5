@@ -1,15 +1,17 @@
 ## Hi! 👋
 
 ### I'm a
-- 💻 Data Scientist.
-- 👨‍💻 Competitive Programmer.
-- 📜 Vim Enjoyer.
-- 🤖 Machine Learning Enthusiast.
+- 💻 Data Scientist
+- 👨‍💻 Competitive Programmer
+- 📜 Vim Enjoyer
+- 🤖 Machine Learning Enthusiast
 
 ### I also
-- 🐍 Program in more than 7 languages.
-- 🧠 I like artificial intelligence.
-- 🎵 I like darksynth.
+- 🐍 Program in more than 7 languages
+- 🧠 I like artificial intelligence
+- 🎵 I like darksynth
+
+# I use arch btw
 
 ###
 - 📫 [Email](kulacoglukoral@gmail.com)
