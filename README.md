@@ -1,13 +1,11 @@
 ## Hi! 👋
 
 ### I'm a
-- 💻 Data Scientist
-- 👨‍💻 Competitive Programmer
 - 📜 Vim Enjoyer
+- 💻 Data Scientist
+- 🐍 Coder of 7 languages
+- 👨‍💻 Competitive Programmer
 - 🤖 Machine Learning Enthusiast
-
-### I also
-- 🐍 Program in more than 7 languages
 
 ###
 - 📫 [Email](kulacoglukoral@gmail.com)
