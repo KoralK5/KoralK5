@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=gruvbox)
 
-# 🅰️ I use arch btw
+# I use 🅰️rch btw
