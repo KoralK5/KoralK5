@@ -1,6 +1,6 @@
-## Hi!
+## Hi! 👋
 
-### I'm a 👋
+### I'm a
 
 - 💻 Data Scientist.
 - 👨‍💻 Competitive Programmer.
