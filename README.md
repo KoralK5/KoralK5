@@ -8,8 +8,6 @@
 
 ### I also
 - 🐍 Program in more than 7 languages
-- 🧠 I like artificial intelligence
-- 🎵 I like darksynth
 
 ###
 - 📫 [Email](kulacoglukoral@gmail.com)
