@@ -1,11 +1,13 @@
-### Hi! I'm a 👋
+# Hi!
+
+## I'm a 👋
 
 - 💻 Data Scientist.
 - 👨‍💻 Competitive Programmer.
 - 📜 Vim Enjoyer.
 - 🤖 Machine Learning Enthusiast.
 
-### I also
+## I also
 - 🐍 Program in more than 7 languages.
 - 🧠 I like artificial intelligence.
 - 🎵 I like darksynth.
