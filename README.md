@@ -1,7 +1,6 @@
 ## Hi! 👋
 
 ### I'm a
-
 - 💻 Data Scientist.
 - 👨‍💻 Competitive Programmer.
 - 📜 Vim Enjoyer.
