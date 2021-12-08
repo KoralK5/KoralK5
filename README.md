@@ -1,12 +1,15 @@
-### Hi! I'm Koral 👋
+### Hi! I'm a 👋
 
-- 💻 I love coding! I enjoy learning about new algorithms.
-- 👨‍💻 I know more than 7 programming languadges well.
-- 📜 Vim and VS Code are my favorite text editors.
-- 🎨 Gruvbox is my favorite color theme.
-- 🐍 Python is my favorite language.
+- 💻 Data Scientist.
+- 👨‍💻 Competitive Programmer.
+- 📜 Vim Enjoyer.
+- 🤖 Machine Learning Enthusiast.
+
+I also
+- 🐍 Program in more than 7 languages.
 - 🧠 I like artificial intelligence.
 - 🎵 I like darksynth.
+
 - 📫 [Email](kulacoglukoral@gmail.com)
 
 ![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=gruvbox)
