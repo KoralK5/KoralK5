@@ -1,9 +1,7 @@
 ## Hi! 👋
 
 ### I'm a
-- 📜 Vim Enjoyer
 - 💻 Data Scientist
-- 🐍 Coder of 7 languages
 - 👨‍💻 Competitive Programmer
 - 🤖 Machine Learning Enthusiast
 
