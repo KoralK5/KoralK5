@@ -1,5 +1,5 @@
 # Hello! 👋
-I am a software engineering student at the University of Waterloo. Feel free to send me an email on [kulacoglukoral@gmail.com](kulacoglukoral@gmail.com).
+I am a software engineering student at the University of Waterloo. Feel free to send me an email on kulacoglukoral@gmail.com.
 
 ## My Skillset
 - 🤖 Machine Learning & AI
