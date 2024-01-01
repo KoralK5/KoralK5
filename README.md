@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm a software engineering student at the University of Waterloo searching for a co-op. Feel free to email: kulacoglukoral@gmail.com.
+I'm a software engineering student at the University of Waterloo searching for a co-op. My email: kulacoglukoral@gmail.com.
 
 ## My Skillset
 - 🤖 Machine Learning & AI
