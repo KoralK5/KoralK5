@@ -1,13 +1,13 @@
-## Hi! 👋
+# Hello! 👋
+I am a software engineering student at the University of Waterloo.
 
-### I'm a
-- 💻 Data Scientist
-- 👨‍💻 Competitive Programmer
-- 🤖 Machine Learning Enthusiast
+## My Skillset
+- 🤖 Machine Learning & AI
+- 💻 Full-Stack Development
+- 👨‍💻 Competitive Programming
+- 🔐 Cybersecurity
 
-![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=gruvbox)
+![KoralK5's github stats](https://github-readme-stats.vercel.app/api?username=KoralK5&show_icons=true&theme=solarized)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoralK5&show_icons=true&theme=solarized)
 
-###
-📫 [Email](kulacoglukoral@gmail.com)
