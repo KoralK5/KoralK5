@@ -3,3 +3,7 @@ I'm a software engineering student at the University of Waterloo **searching for
 
 # Skills
 🤖 Machine Learning & AI 💻 Full-Stack Development 🛠️ Hardware Engineering 👨‍💻 Competitive Programming 🔐 Cybersecurity
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
